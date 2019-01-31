@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RxJavaBasic</string>
+    <string name="type_here">Type here ...</string>
+    <string name="handle_click_with_rx">Handle Click With Rx</string>
+    <string name="handled_by_rx_java">Handled by Rx Java</string>
+    <string name="result">Result</string>
+</resources>
